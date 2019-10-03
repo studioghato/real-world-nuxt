@@ -11,7 +11,7 @@
 </template>
 
 <script>
-import { mapState } from 'Vuex'
+import { mapState } from 'vuex'
 import EventCard from '@/components/EventCard.vue'
 
 export default {
